@@ -1,0 +1,22 @@
+.qodo
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Not part of the game (personal files / early prototype)
+exam/
+*.pdf
+*.jpg
+zomb1.py
+
+# Unused parts of the third-party asset packs
+assets/town/
+assets/Top_Down_Survivor/feet/
+assets/Top_Down_Survivor/flashlight/
+assets/map/PNG/
+assets/map/Spritesheet/
+assets/map/Tilesheet/
+assets/map/Vector/
+assets/map/Preview*.png
+assets/map/Sample.png
